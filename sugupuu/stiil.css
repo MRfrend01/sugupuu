@@ -1,0 +1,48 @@
+﻿body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #f4f6f9;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    color: #1a365d;
+}
+
+.kast {
+    background: #ffffff;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border: 1px solid #e1e8ed;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #cbd5e1;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #1e293b;
+    color: white;
+}
+
+.otsing input {
+    padding: 6px 10px;
+    margin-right: 20px;
+    border: 1px solid #cbd5e1;
+    border-radius: 4px;
+}
+
+/* Ülesanne 10: Alla 7 märgiga nimedele roheline taust */
+.lyhike-nimi {
+    background-color: #a8e6cf !important;
+}

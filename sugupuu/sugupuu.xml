@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="stiil.xsl"?>
+<sugupuu>
+	<inimene nimi="Elizabeth II" sunniaasta="1926">
+		<inimene nimi="Charles III" sunniaasta="1948">
+			<inimene nimi="William" sunniaasta="1982">
+				<inimene nimi="George" sunniaasta="2013"/>
+				<inimene nimi="Charlotte" sunniaasta="2015"/>
+				<inimene nimi="Louis" sunniaasta="2018"/>
+			</inimene>
+			<inimene nimi="Harry" sunniaasta="1984">
+				<inimene nimi="Archie" sunniaasta="2019"/>
+				<inimene nimi="Lilibet" sunniaasta="2021"/>
+			</inimene>
+		</inimene>
+		<inimene nimi="Anne" sunniaasta="1950">
+			<inimene nimi="Peter" sunniaasta="1977">
+				<inimene nimi="Savannah" sunniaasta="2010"/>
+				<inimene nimi="Isla" sunniaasta="2012"/>
+			</inimene>
+			<inimene nimi="Zara" sunniaasta="1981">
+				<inimene nimi="Mia" sunniaasta="2014"/>
+				<inimene nimi="Lena" sunniaasta="2021"/>
+				<inimene nimi="Lucas" sunniaasta="2021"/>
+			</inimene>
+		</inimene>
+		<inimene nimi="Andrew" sunniaasta="1960">
+			<inimene nimi="Beatrice" sunniaasta="1988">
+				<inimene nimi="Sienna" sunniaasta="2021"/>
+			</inimene>
+			<inimene nimi="Eugenie" sunniaasta="1990">
+				<inimene nimi="August" sunniaasta="2020"/>
+				<inimene nimi="Ernest" sunniaasta="2023"/>
+			</inimene>
+		</inimene>
+		<inimene nimi="Edward" sunniaasta="1964">
+			<inimene nimi="Louise" sunniaasta="2003"/>
+			<inimene nimi="James" sunniaasta="2007"/>
+		</inimene>
+	</inimene>
+</sugupuu>
